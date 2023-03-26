@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+}
+
+.principal{
+    /* divprincipal */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 393px;
+height: 851px;
+left: 750px;
+
+border: 3px solid gray;
+background-color: #11021f;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 49px;
+}
+
+.colorsproject{
+    /* THE COLORS SONG */
+
+
+position: absolute;
+width: 269px;
+height: 34px;
+left: 4%;
+top: 52px;
+
+font-family: 'Prosto One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+border: solid 3px gray;
+height: 120px;
+width: 337px;
+padding: 7px;
+left: 15px;
+border-radius: 10px;
+top: 60px;
+/* or 40px */
+
+
+/* material-theme/black */
+
+background-image: linear-gradient(to bottom, rgb(9, 255, 0), rgb(1, 5, 255),rgb(255, 1, 1),rgb(140, 0, 255), yellow);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: 40px;
+
+}
+
+.elements{
+position: absolute;
+width: 105px;
+height: 106px;
+left: 250px;
+top: 84px;
+
+background: url(../imgs/logocores\ 1.png);
+}
+
+.selecao{
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    left: 769px;
+    top: 260px;
+    
+    border: solid;
+    border-radius: 10px;
+    color: gray;
+}
+
+.white{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 11px;
+top: 15px;
+
+background: #ffffff;
+border-radius: 10px;
+}
+
+.nwhite{
+font-family: 'Prosto One';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 100%;
+color: #000000;
+position: absolute;
+top: 387px;
+width:100px ;
+left:810px;
+}
+
+.red{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 188px;
+top: 15px;
+
+background: #ff0000;
+border-radius: 10px;
+}
+
+.nred{
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    color: #000000;
+    position: absolute;
+    top: 387px;
+    width:100px ;
+    left:1006px;
+    }
+
+.green{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 11px;
+top: 180px;
+
+background: #33ff00;
+border-radius: 10px;
+}
+
+.ngreen{
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    color: #000000;
+    position: absolute;
+    top: 550px;
+    width:100px ;
+    left:810px;
+    }
+
+.black{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 188px;
+top: 180px;
+
+background: #000000;
+border-radius: 10px;
+}
+
+.nblack{
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    color: #ffffff;
+    position: absolute;
+    top: 550px;
+    width:100px ;
+    left:990px;
+    }
+
+.blue{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 11px;
+top: 345px;
+
+background: #0084ff;
+border-radius: 10px;
+}
+
+.nblue{
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    color: #000000;
+    position: absolute;
+    top: 720px;
+    width:100px ;
+    left:820px;
+    }
+
+.incolor{
+    position: absolute;
+width: 150px;
+height: 140px;
+left: 188px;
+top: 345px;
+
+background: #C4C4C4;
+border-radius: 10px;
+}
+
+.nincolor{
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    color: #6b6b6b;
+    position: absolute;
+    top: 720px;
+    width:100px ;
+    left:972px;
+    }
+
+.footer1{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width:300px;
+    height: 25px;
+    top: 800px;
+    left: 800px;
+}
